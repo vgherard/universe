@@ -1,0 +1,26 @@
+[
+    {
+        "package": "sbo",
+        "url": "https://github.com/vgherard/sbo"
+    },
+    {
+        "package": "kgrams",
+        "url": "https://github.com/vgherard/kgrams"
+    },
+    {
+        "package": "fcci",
+        "url": "https://github.com/vgherard/fcci"
+    },
+    {
+        "package": "gsample",
+        "url": "https://github.com/vgherard/gsample"
+    },
+    {
+        "package": "r2r",
+        "url": "https://github.com/vgherard/r2r"
+    },
+    {
+        "package": "scribblr",
+        "url": "https://github.com/vgherard/scribblr"
+    }
+]
