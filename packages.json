@@ -1,15 +1,18 @@
 [
     {
         "package": "sbo",
-        "url": "https://github.com/vgherard/sbo"
+        "url": "https://github.com/vgherard/sbo",
+        "branch" : "*release"
     },
     {
         "package": "kgrams",
-        "url": "https://github.com/vgherard/kgrams"
+        "url": "https://github.com/vgherard/kgrams",
+        "branch" : "*release"
     },
     {
         "package": "fcci",
-        "url": "https://github.com/vgherard/fcci"
+        "url": "https://github.com/vgherard/fcci",
+        "branch" : "*release"
     },
     {
         "package": "gsample",
