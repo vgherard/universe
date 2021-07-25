@@ -20,10 +20,15 @@
     },
     {
         "package": "r2r",
-        "url": "https://github.com/vgherard/r2r"
+        "url": "https://github.com/vgherard/r2r",
+        "branch": "*release"
     },
     {
         "package": "scribblr",
         "url": "https://github.com/vgherard/scribblr"
+    },
+    {
+        "package": "runiv",
+        "url": "https://github.com/vgherard/runiv"
     }
 ]
