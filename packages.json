@@ -6,7 +6,8 @@
     },
     {
         "package": "kgrams",
-        "url": "https://github.com/vgherard/kgrams"
+        "url": "https://github.com/vgherard/kgrams",
+        "branch" : "*release"
     },
     {
         "package": "fcci",
