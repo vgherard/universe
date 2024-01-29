@@ -26,9 +26,5 @@
     {
         "package": "scribblr",
         "url": "https://github.com/vgherard/scribblr"
-    },
-    {
-        "package": "runi",
-        "url": "https://github.com/vgherard/runi"
     }
 ]
